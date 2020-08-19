@@ -1,0 +1,21 @@
+山寨WINDOWS10的LINUX(基於Ubuntu 20.04 LTS 的Linuxfx 10.5 發布，Windows 10克隆版本)
+
+資料來源:https://mp.weixin.qq.com/s?__biz=MjM5NDEwNzc0MQ==&mid=2650941990&idx=2&sn=573f305c56113487140caddf1d1a2c55&chksm=bd7a52148a0ddb02d47d5098ec4fa725d59e8db4a1e0b234ab09b5733035f6c2b0ca1ca2aac0&scene=126&sessionid=1597800256&key=bf49e72a192178bf3333a9f64a60e70e3d5410f26bebaebfa483a615e6f9b4604dce449a87191a04d064a4496cefa3c8801c7c9fd4f5c5d43258006f7d0b76f1ff815c77b7b6019b62fa9b7024d4b73cf8aeaa5c23fee066b18c7ba6ec8fca864644ce267361155f37ebe7661c95e8533a5ae35a1a93eb14a538ffee1466cc82&ascene=1&uin=MjIwODk2NDgxNw%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_TW&exportkey=AnNbLioDIDZFDd1C4Po0mQ0%3D&pass_ticket=azVX3PgoGyNwvaTt8aCwT2BaG2X%2Fp04P6jW3NVzgpwO7%2FvJgbkifDdjpyQO9dFbI
+https://kknews.cc/zh-tw/digital/g4rnaye.html
+
+
+下載ISO: https://sourceforge.net/projects/linuxfxdevil/files/
+https://jaist.dl.sourceforge.net/project/linuxfxdevil/linuxfx10.5-wx-lts.iso
+
+文字介紹:
+	Linuxfx是一款來自巴西的Linux發行版，這款來自巴西的作業系統看著像Window 10，它基於Ubuntu衍生。
+
+	Linuxfx最新10.5版具備用於桌面和系統應用的WX主題，默認已經存在Wine，可以直接下載安裝Window應用軟體。
+
+
+實測VM執行畫面:
+
+
+
+			
+
